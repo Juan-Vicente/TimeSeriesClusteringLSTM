@@ -7,11 +7,11 @@
 </ol>
 <p>The data is available in a different repository. The data belongs to the <a href="https://www.cimapy.org/es/comidenco">COMIDENCO project</a>.</p>
 <p>Citation</p>
-<code>
+<pre><code>
 J. V. Bogado, D. H. Stalder, C. E. Schaerer and S. Gómez-Guerrero, "Time Series Clustering to Improve Dengue Cases Forecasting with Deep Learning," 2021 XLVII Latin American Computing Conference (CLEI), 2021, pp. 1-10, doi: 10.1109/CLEI53233.2021.9640130.
-</code>
+</code></pre>
 <p>BibTex</p>
-<code class="command-copy">
+<pre><code class="command-copy">
 @INPROCEEDINGS{9640130,
   author={Bogado, J. V. and Stalder, D. H. and Schaerer, C. E. and Gómez-Guerrero, S.},
   booktitle={2021 XLVII Latin American Computing Conference (CLEI)}, 
@@ -21,4 +21,4 @@ J. V. Bogado, D. H. Stalder, C. E. Schaerer and S. Gómez-Guerrero, "Time Series
   number={},
   pages={1-10},
   doi={10.1109/CLEI53233.2021.9640130}}
-</code>
+</code></pre>
